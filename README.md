@@ -21,7 +21,6 @@ README.md               (general information about project)
 ---
 * An IDE that can run C++ programs (I program on a Mac so I use XCode, but some another viable option can be Eclipse)
 * Just the base C++ framework to run C++ programs
-gi
 ## Author
 ---
 *  Mason Schenk: sch19013@byui.edu
