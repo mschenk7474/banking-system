@@ -25,7 +25,7 @@ README.md               (general information about project)
 
 ## Required Technologies
 ---
-* An IDE that can run C++ programs (I program on a Mac so I use XCode, but some another viable option can be Eclipse)
+* An IDE that can run C++ programs (I program on a Mac so I use XCode, but another viable option can be Eclipse)
 * Just the base C++ framework to run C++ programs
 ## Author
 ---
